@@ -2,8 +2,8 @@
 
 # Feel free to reach out to me via:
 - **Resume:**[Website](https://alexlts-portfolio.netlify.app/)
-- **Email:** [Alex.youssef2](mailto:Alex.youssef@Live.com)
-- **LinkedIn:** [Linkedin] <!-- (#) --> 
+- **Email:** [Alex Fredrik Youssef](mailto:Alex.youssef@Live.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/alex-youssef-02512a335/)
 
 ## Skills and Technologies
 
