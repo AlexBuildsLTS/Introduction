@@ -1,11 +1,9 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 
 
-## About Me
-
-Hello! I'm Alex Youssef, an aspiring Java Full Stack Developer currently studying and working on various projects to hone my skills. I have a passion for creating dynamic, responsive, and user-friendly web applications. 
-This repository showcases my journey and the projects I've worked on.
-
-
+# Feel free to reach out to me via:
+- **Resume:**[Website](https://alexlts-portfolio.netlify.app/)
+- **Email:** [Alex.youssef2](mailto:Alex.youssef@Live.com)
+- **LinkedIn:** [Linkedin] <!-- (#) --> 
 
 ## Skills and Technologies
 
@@ -15,30 +13,30 @@ Here are some of the technologies and tools I have experience with:
 - HTML5
 - CSS
 - JavaScript
-<!-- - React.js
-- Angular -->
+-  React.js
+- Angular 
 
 ### Backend
 - Java
 - Spring Boot
-<!--- RESTful APIs
+- RESTful APIs
 - Hibernate
 
 ### Databases
 - MySQL
 - PostgreSQL
 - MongoDB 
--->
+  
 ### DevOps & Tools
 - Git & GitHub
 - Maven
 
-<!--
+
 ## Learning Schedule
 
 Here is my current learning schedule as I progress towards becoming a proficient Full Stack Developer:
 
-1. **Week 1: Course Introduction, Assessment, Programming Environment** - DONE
+<!-- 1. **Week 1: Course Introduction, Assessment, Programming Environment** - DONE
 2. **Week 2: Getting Started with Git and GitHub** - DONE
 3. **Week 3: Introduction to Web Development with HTML & CSS** - DONE
 4. **Week 4: Java Fundamentals Part 1** - NOT DONE
@@ -66,9 +64,9 @@ Here is my current learning schedule as I progress towards becoming a proficient
 26. **Week 26: React Axios & Router** - NOT DONE
 -->
 
-## Projects
+<!-- ## Projects
 
-### [Project 1 [Name] 
+### [Project 1 [Name] -->
 <!-- - **Description:** 
 - **Technologies:** 
 - **Repository Link:** [Link to the repository](#)
@@ -89,12 +87,6 @@ I am constantly learning and trying to improve my skills. Currently, I am focuse
 - Deepening my knowledge of Spring Boot.
 - Building more complex and scalable applications.
 - Learning about cloud deployment with AWS.  -->
-
-## Contact Me
-
-Feel free to reach out to me via:
-- **Email:** [Alex.youssef2](mailto:Alex.youssef@Live.com)
-- **LinkedIn:** [Linkedin] <!-- (#) --> 
 
 ## Acknowledgements
 
