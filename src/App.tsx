@@ -1,5 +1,3 @@
-// src/App.tsx
-
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout";
@@ -13,7 +11,6 @@ const App: React.FC = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/calendar" element={<CalendarPage />} />
-          {/* Add more routes as needed */}
         </Routes>
       </Layout>
     </Router>
