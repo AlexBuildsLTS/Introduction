@@ -8,11 +8,11 @@ interface Skill {
   category: string;
 }
 
-export default function Skills() {
+export default function Experience() {
   const [isVisible, setIsVisible] = useState(false);
 
   const skills: Skill[] = [
-    // Existing skills
+    // Existing Experience
     { name: 'Java', level: 85, category: 'Languages' },
     { name: 'JavaScript', level: 50, category: 'Languages' },
     { name: 'Spring Boot', level: 70, category: 'Backend' },
